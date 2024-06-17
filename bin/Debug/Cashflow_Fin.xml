@@ -1,0 +1,311 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cashflow_Fin
+</name>
+</assembly>
+<members>
+<member name="T:Cashflow_Fin.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Cashflow_Fin.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Cashflow_Fin.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.AssetsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.BigDealsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.ChanceDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.ExpensesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.IncomeDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.LiabilitiesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.PenaltyDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.Player_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.SmallDealsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.Start_valuesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.stockdetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.stocksDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.AssetsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.BigDealsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.ChanceRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.ExpensesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.IncomeRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.LiabilitiesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.PenaltyRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.Player_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.SmallDealsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.Start_valuesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.stockdetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.stocksRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.AssetsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.BigDealsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.ChanceRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.ExpensesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.IncomeRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.LiabilitiesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.PenaltyRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.Player_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.SmallDealsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.Start_valuesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.stockdetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSet.stocksRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.AssetsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.BigDealsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.ChanceTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.ExpensesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.IncomeTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.LiabilitiesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.PenaltyTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.Player_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.SmallDealsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.Start_valuesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.stockdetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.stocksTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Cashflow_Fin.adminpaneldbDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Cashflow_Fin.adminpaneldbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Cashflow_Fin.adminpaneldbDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager.UpdateAll(Cashflow_Fin.adminpaneldbDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Cashflow_Fin.adminpaneldbDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
